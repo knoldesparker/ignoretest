@@ -1,7 +1,15 @@
 public class mian {
+    //Hej alle
     public static void main(String[] args) {
-        for (int i = 0; i < 11; i++) {
-            System.out.println(i);
+        public boolean sleepIn(boolean weekday, boolean vacation) {
+
+            if (weekday = true)
+            {
+                SleepIn = false;
+            }
+            else {
+                SleepIn = true;
+            }
 
         }
     }
